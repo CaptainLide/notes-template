@@ -1,0 +1,8 @@
+READ STEPS:
+
+You will need the following to make this .py work. 
+
+1. Python
+2. A Linux Distro (this is because i am using the OS module) 
+
+So far my script can only run on Linux based machines but with some help i'll find a way to make it windows friendly as well. 
